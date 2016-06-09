@@ -14,3 +14,7 @@ El codigo esta desordenado con muchos modulos. Para comprender el funcionamiento
 
 Los demás módulos son contadores (especialmente para almacenar los datos ingresados por el usuario), divisores de clk y decodificadores.
 La escritura al RTC de los datos deseados por el usuario NO se implementó en este proyecto.
+
+ESTUDIANTES
+JUAN CALLEJA TRUJILLO
+ALEJANDRO SOTO RAMÍREZ
